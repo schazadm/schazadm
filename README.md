@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ----------------
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schazadm&layout=compact&langs_count=6&theme=buefy&border_color=2e4058" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=schazadm&langs_count=10&layout=compact&custom_title=Wakatime%20Stats&line_height=20&theme=buefy&border_color=2e4058" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schazadm&layout=compact&langs_count=6&theme=buefy&border_color=2e4058" /></div>
 
 <!--
 **schazadm/schazadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
